@@ -1,0 +1,36 @@
+
+
+.wrapperTable{
+  
+  border-collapse: collapse;    
+  width: 100%;
+  margin-top: 30px
+}
+
+table tr {
+    border-bottom: solid thin rgb(240, 231, 231);  
+    color:#505050;
+    background-color: white; 
+    /* height: 72px; */
+    text-align: left;
+    font-size:16px;
+    line-height: 24px;
+    font-weight:400;    
+  }
+
+  .removeButton{
+      cursor: pointer;
+      border: none
+  }
+
+table tr td {
+    padding: 24px;
+}
+
+table tr th {
+    padding: 16px 0 16px 24px;
+}
+  
+  
+  
+  
